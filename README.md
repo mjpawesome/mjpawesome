@@ -9,6 +9,6 @@ You can find me around the web:
 
 - :earth_americas: Sharing updates on [Linkedin](https://www.linkedin.com/in/markpoggi/) 
 - :baby_chick: Following developers and business leaders on [Twitter](https://twitter.com/markjp)
-- 📫 How to reach me: [markp@hey.com](markp@hey.com)
+- 📫 How to reach me: [markjp@hey.com](markjp@hey.com)
 
 
